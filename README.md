@@ -7,3 +7,7 @@ Hello! As I learn and explore the Go programming language, I would like to share
 Here are the chapters:
 
 1. [Go Commands for Efficient Development and Code Quality](go_commands.md)
+
+2. [Streamline Your Go Development with Makefiles](makefiles.md)
+
+3. [Primitive Types and Variable Declaration in Go](primitive_types/primitive_types.md)
